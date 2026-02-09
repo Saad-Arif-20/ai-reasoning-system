@@ -413,8 +413,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Saad Arif**
 - GitHub: [@Saad-Arif-20](https://github.com/Saad-Arif-20)
-- Portfolio: [Your Portfolio URL]
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: [@saad--arif](https://www.linkedin.com/in/saad--arif/)
 
 ---
 
